@@ -8,14 +8,14 @@
 -> sqlalchemy (for MySQL database)
 -> pydantic
 
-##Setup
+## Setup
 
 -> Create a new directory for our project and install the necessary dependencies using:
    pip install fastapi uvicorn sqlalchemy pydantic
 
 -> Next, create a database with the name "to-doList"
 
-##Execution
+## Execution
 
 -> Run the following command in the project directory path:
    uvicorn main:app --reload
