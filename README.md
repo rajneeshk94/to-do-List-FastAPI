@@ -5,7 +5,7 @@
 -> Python 3.6 or later
 -> FastAPI
 -> uvicorn
--> sqlalchemy (for MySQL database)
+-> sqlalchemy(for MySQL database)
 -> pydantic
 
 ## Setup
