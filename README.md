@@ -3,9 +3,13 @@
 ## Before you start, you will need to have the following installed on your machine:
 
 -> Python 3.6 or later
+
 -> FastAPI
+
 -> uvicorn
+
 -> sqlalchemy(for MySQL database)
+
 -> pydantic
 
 ## Setup
